@@ -18,21 +18,23 @@ To run the app, follow these steps:
 
 2. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/flutter-random-word-generator.git
-   ``` 
-   **Dependencies**
-english_words: A package for generating random English words.
-
-Navigate to the project directory:
+```bash
+git clone https://github.com/your-username/flutter-random-word-generator.git
+```
+3. Navigate to the project directory:
 
 ```bash
 cd flutter-random-word-generator
 ```
 
-Run the app:
+4. Run the app:
 ```bash
 flutter run
 ```
 
 This command will install the necessary dependencies and launch the app on your emulator or connected device.
+
+## **Dependencies**
+english_words: A package for generating random English words.
+
+
